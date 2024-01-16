@@ -20,5 +20,18 @@ Before you begin, ensure you have installed:
 ## 🛠 Installation
 
 1. Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+   
+   ```bash git clone https://github.com/DelignyS/AlgorithmOptimisation.git```
+
+2.Navigate to your project Folder
+
+```bash cd your-repo```
+
+3. install the dependencies:
+
+```bash npm install```
+
+## 🚀 Usage 
+
+Now to use It at your will juste run ```bash npm start```
+
